@@ -30,7 +30,16 @@
 
    define("edad",20);
 
-   printf(edad)
+   printf(edad);
 
+   /**
+    * TODO tipo de datos:
+    */
+
+    /**Boolean */
+     $logueado = true;
+
+    /**imprime */
+     
 
 ?>
