@@ -13,8 +13,24 @@
   /**
    * ?sprintf devuelve la cadena
    */
-  $mensaje= sprintf("Hola %s", $texto);
+  $mensaje= sprintf("Holaaa %s", $texto);
   echo $mensaje;
+
+  $nombre="laura";
+
+  /**
+   * 
+   * ?se declara una constante tipo texto*/
+
+    define("Saludo","HOLA MUNDO");
+
+    /**
+   * 
+   * ?se declara una constante tipo numerica*/
+
+   define("edad",20);
+
+   printf(edad)
 
 
 ?>
